@@ -4,15 +4,15 @@ html, body, header, main, section, footer {
     padding: 0;
     border: 0;
   }
-  
+
   body {
     font-family: Arial, sans-serif;
     line-height: 1.6;
-    background-color: #f2f2f2;
+    background-color:whitesmoke;
   }
   
   header {
-    background-color: #333;
+    background-color: #4134345b;
     color: #fff;
     text-align: center;
     padding: 10px;
