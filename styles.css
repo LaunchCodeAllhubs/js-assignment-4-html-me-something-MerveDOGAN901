@@ -23,11 +23,13 @@ nav ul {
   margin: 0;
 }
 
-/* New CSS rules for the funParagraph class and mainHeading id */
+
 .funParagraph {
   color: green;
 }
-
+#testP {
+  color:green;
+}
 #mainHeading {
   color: red;
 }
@@ -63,9 +65,5 @@ footer {
   text-align: center;
   padding: 10px;
 }
-#testP {
-  color:green;
-}
-/* #testP {
-  color:green;
-} */
+
+
